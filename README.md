@@ -76,7 +76,7 @@ rsl_rl/
 - 人形机器人locomotion任务：[Humanoid Gym](https://github.com/roboterax/humanoid-gym) 
 
 # 6. 经典论文推荐
-这里为了便于了解和学习，我将一些比较经典的论文进行了整理和简单的说明，便于你们进行系统性的学习。
+这里为了便于了解和学习，我将一些比较经典的论文进行了整理和简单的说明，便于你们进行系统性的学习。(这些论文只是例子，当然追踪热点肯定是最好的)
 ## 6.1 四足机器人
 - **[《Learning Quadrupedal Locomotion over Challenging Terrain》](https://arxiv.org/abs/2010.11251)** 强化学习开山之作，盲狗
 - [《RMA: Rapid Motor Adaptation for Legged Robots》](https://arxiv.org/abs/2107.04034) 师生网络蒸馏，使用更长时间的历史本体观测序列，历史观测编码器推理较慢无需实时
