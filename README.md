@@ -142,6 +142,8 @@ rsl_rl/
 pi05对于模型的预训练，用的就恰恰是FAST
 
 ### 6.5.3 pi05相关技术拆解
+<img width="2542" height="1076" alt="image" src="https://github.com/user-attachments/assets/4c3a5ff1-088a-4f8e-9ce3-ffa26f9ea982" />
+
 #### 6.5.3.1 subtask
 pi05中还有subtask这么一个输入，这是直接提供给VLM部分的，这个也可以关注一下，但是实际上，不太好用只能说，而且openpi和lerobot压根就没实现这部分，即使你自己实现了，很多时候模型也会胡乱说话，除非你做密集的数据标注保证每次生成都有subtask约束，这样密集标注subtask很耗费人力。
 
